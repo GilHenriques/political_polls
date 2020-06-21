@@ -61,5 +61,6 @@ polls %>%
             color = "black", hjust = 0, cex = 3.5) +
   facet_zoom(xlim = c(dates$date[1], max(polls$fieldwork_end) %m+% days(10)))
 
-
+ggsave("Portugal_legislative/portugal_legislative.pdf", height = 7, width = 7)
+ggsave("Portugal_legislative/portugal_legislative.png", height = 7, width = 7)
 
