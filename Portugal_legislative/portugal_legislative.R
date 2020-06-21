@@ -22,7 +22,7 @@ polls <- polls %>%
               fieldwork_end < as.POSIXct("2019-10-01")))  # remove early polls from new parties to avoid big error bars
 
 polls$name <- factor(polls$name) # remove unused factor levels
-levels(polls$name) # "BE"  "CDS" "CH"  "CDU" "IL"  "L"   "PSD" "PS"  "PAN"
+levels(polls$name) <- c("BE", "CDS", "CH",  "CDU", "IL",  "L",   "PSD", "PS",  "PAN")
 
 colors <- c("brown4", "dodgerblue2", "darkorchid4",
             "red2", "deepskyblue", "green3",
