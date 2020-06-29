@@ -66,7 +66,7 @@ We can immediately see some patterns.
 
   - **The two largest parties**---the centre-left PS and the centre-right PSD---have very well-defined positions in the color wheel, meaning that there is strong consensus about them. PS is always pink, PSD is always orange. 
   - **Small and recent parties** are more spread out along the color wheel, which indicates that there is no consensus yet about how to represent them. The newcomers---far-right CH, green-left L, liberal IL and animal-rights party PAN---are, to a greater or lesser extent, all over the map. 
-  - **The two medium-sized left-wing parties***---the old-left coalition CDU and the new-left party BE---are each consistently represented by one of two colors: either black or blue for CDU and black or red for BE. In the case of CDU, the choice of red (instead of the official coalition color, blue) is clearly due to the prevalence of the Communist party in that coalition.
+  - **The two medium-sized left-wing parties**---the old-left coalition CDU and the new-left party BE---are each consistently represented by one of two colors: either black or blue for CDU and black or red for BE. In the case of CDU, the choice of red (instead of the official coalition color, blue) is clearly due to the prevalence of the Communist party in that coalition.
   
 To delve deeper, let's take a look at the colors chosen by each newsroom:
 
